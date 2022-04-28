@@ -1,0 +1,5 @@
+package com.danielzambon.hrpayroll.services;
+
+public class PaymentService {
+
+}

@@ -1,0 +1,5 @@
+package com.danielzambon.hrworker.resources;
+
+public class WorkerResource {
+
+}

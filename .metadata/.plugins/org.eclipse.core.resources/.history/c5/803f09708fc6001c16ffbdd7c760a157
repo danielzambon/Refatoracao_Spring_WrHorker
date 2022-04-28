@@ -1,0 +1,5 @@
+package com.danielzambon.hrpayroll.resources;
+
+public class PaymentResorce {
+
+}

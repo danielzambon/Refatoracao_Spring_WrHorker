@@ -1,12 +1,10 @@
 # Refatoracao_Spring_WrHorker
 
 Refatoração necessaria devido a atualizações do Spring 
-
 Para testes utilizados Postman 
 
-Alterado no application.properties 
+##Alterado no application.properties 
 
-# jpa
 spring.jpa.defer-datasource-initialization=true
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true

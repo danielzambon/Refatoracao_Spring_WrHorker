@@ -3,7 +3,7 @@
 Refatoração necessaria devido a atualizações do Spring 
 Para testes utilizados Postman 
 
-##Alterado no application.properties 
+## Alterado no application.properties 
 
 spring.jpa.defer-datasource-initialization=true
 spring.jpa.show-sql=true
